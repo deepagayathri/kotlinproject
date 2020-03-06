@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="btn_background">#AA1776</color>
+    <color name="grey">#777477</color>
+    <color name="facebook_linkedin_background">#FDF2F7</color>
+    <color name="facebook_lin">#4e1a50</color>
+    <color name="login_btn_clr">#A51A73</color>
+    <color name="plus_background">#C797C7</color>
+    <color name="btn_pink">#AB1779</color>
+    <color name="plus_background1">#D9A6D8</color>
+    <color name="btn_inactive">#9F1979</color>
+    <color name="grey_color">#9f9f9f</color>
+    <color name="black_color">#191919</color>
+    <color name="light_grey">#c5c5c5</color>
+    <color name="dark_grey">#7f7f7f</color>
+    <color name="light_pink">#fdf5f9</color>
+    <color name="red">#DF0707</color>
+    <color name="hint_color">#cc73ae</color>
+    <color name="pinky">#b7478f</color>
+    <color name="lavendar">#f3f0ff</color>
+    <color name="lavendar_light">#f3eef4</color>
+    <color name="dark">#7a5888</color>
+</resources>
